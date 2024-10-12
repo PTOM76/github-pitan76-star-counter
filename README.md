@@ -1,1 +1,1 @@
-# github-pitan76-star-counter
+# GitHub Star Counter
