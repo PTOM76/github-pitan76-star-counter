@@ -53,7 +53,7 @@ if ($w == 0 && $h != 0) {
 
 $stars = getTotalStars($username);
 
-$image = imagecreatefrompng('background1450.png');
+$image = imagecreatefrompng('background.png');
 imagesavealpha($image, TRUE);
 
 $text_color = imagecolorallocate($image, 0, 0, 0);
